@@ -13,3 +13,6 @@ Se precisar do GTK 3 (muito comum em projetos antigos), use:
 ```
 sudo apt install libgtk-3-dev
 ```
+```
+sudo apt install glade
+```
